@@ -154,6 +154,3 @@ Users must create their own `.env` file with their own Hugging Face token.
 
 ---
 
-## Author
-
-Nikhil Verma
